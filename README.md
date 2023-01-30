@@ -20,6 +20,7 @@ We all tend to open a bunch of tabs while doing the job hunting but sometime we 
 1. Can manually type the URL to the input field, then click SAVE INPUT button.
 2. Click the SAVE TAB button, JobTracker will fetch the URL of the current tab.
 3. **Double click** the DELETE ALL button can clear all URL stored in the localStroage.
+4. After clicking the link, the new tab will be opened and the corresponding URL will be popped from the JobTracker. 
 
 ## Screenshots
 <img width="488" alt="Screen Shot 2023-01-29 at 22 36 03" src="https://user-images.githubusercontent.com/39294611/215405269-3b0599dd-f129-45d8-86c9-f18479b3e4d1.png">
