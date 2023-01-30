@@ -35,6 +35,18 @@ inputBtn.addEventListener("click", function(){
     render(myJobs);
 });
 
+ulEl.addEventListener("click", function(e){
+    if(e.target){
+        //console.log("invoked");
+        //console.log(e.target.textContent);
+        let toBeDelected = e.target.textContent;
+        let index = myJobs.indexOf(toBeDelected);
+        myJobs.splice(index, 1);
+        localStorage.setItem("myJobs", JSON.stringify(myJobs));
+        render(myJobs);
+    }
+});
+
 function render(jobs){
     let listItem = "";
     for(let i = 0; i < jobs.length; i++){
