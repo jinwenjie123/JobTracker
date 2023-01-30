@@ -9,7 +9,7 @@
 - [Screenshots](#Screenshots)
 
 ## About JobTracker
-We all tend to open a bunch of tabs while doing the job hunt but sometime we do not have time to apply all in at once and keep those tabs open will occupy a lot of memory spaces. It is a Chrome extension that helps you track web pages (especially, Jobs that you want to save and apply later)
+We all tend to open a bunch of tabs while doing the job hunting but sometime we do not have enough time to apply all in at once and keep those tabs open will occupy a lot of memory spaces. It is a Chrome extension that helps you track web pages (especially, job links that you want to save and apply later)
 
 ## Getting Started
 1. Download all codes from this repository.
