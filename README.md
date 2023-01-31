@@ -23,7 +23,7 @@ We all tend to open a bunch of tabs while doing the job hunting but sometime we 
 4. After clicking the link, the new tab will be opened and the corresponding URL will be popped out from the JobTracker. 
 
 ## Screenshots
-<img width="488" alt="Screen Shot 2023-01-29 at 22 36 03" src="https://user-images.githubusercontent.com/39294611/215405269-3b0599dd-f129-45d8-86c9-f18479b3e4d1.png">
+<img width="529" alt="Screen Shot 2023-01-30 at 21 37 15" src="https://user-images.githubusercontent.com/39294611/215675096-9e55324a-9428-46fa-a98c-d0b7e8d37399.png">
 
 
 
