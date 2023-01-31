@@ -10,6 +10,7 @@ input {
     padding: 10px;
     box-sizing: border-box;
     border: 1px solid #243763;
+    border-radius: 10px;
 }
 
 button {
@@ -19,6 +20,7 @@ button {
     padding: 10px 20px;
     border: none;
     font-weight: bold;
+    border-radius: 4px;
 }
 
 #delete-btn {
@@ -35,6 +37,7 @@ ul {
 
 li {
     margin-top: 5px;
+    font-size: 17px;
 }
 
 li a {
